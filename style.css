@@ -18,7 +18,7 @@ body{
 	color:white;
 }
 .navbar{
-	background-color:#7E7E92  ;
+	background-color:#5E4B83 ;
 	height:50px;
 	width:100%;
 	position:fixed;
@@ -216,7 +216,7 @@ top:50px;
      padding-top: 10px;
      padding-bottom: 10px;
      border: 1px solid #b2b2b2;
-		 background-color:#3F5858;
+		 background-color:#5E4B83;
 
 }
  #sidebar-user-box {
